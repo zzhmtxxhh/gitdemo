@@ -1,2 +1,0 @@
-"hello world"
-"one more string get edited"
